@@ -1,5 +1,7 @@
 package br.com.correios.model;
 
+import org.apache.commons.mail.EmailException;
+
 public interface ICorreios {
-	public void enviarEmail(String email, String assunto, String mensagem);
+	public void enviarEmail(String emailUsuario, String assunto, String mensagemCorpo) throws EmailException;
 }

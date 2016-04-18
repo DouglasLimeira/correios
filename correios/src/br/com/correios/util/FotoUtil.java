@@ -11,11 +11,15 @@ public class FotoUtil {
 		return "http://www.imobiliariapp.com.br/assets/images/email/bemvindo/";
 	}
 	
-	public static String getCaminhoPastaCadastroAceitoMail(){
-		return "http://www.imobiliariapp.com.br/assets/images/email/cadastroaceito/";
+	public static String getCaminhoPastaConstrutor(){
+		return "http://www.imobiliariapp.com.br/assets/images/email/construtor/";
 	}
 	
-	public static String getCaminhoPastaCadastroRecusadoMail(){
-		return "http://www.imobiliariapp.com.br/assets/images/email/cadastrorecusado/";
+	public static String getCaminhoPastaCorretor(){
+		return "http://www.imobiliariapp.com.br/assets/images/email/corretor/";
+	}
+	
+	public static String getCaminhoPastaProprietario(){
+		return "http://www.imobiliariapp.com.br/assets/images/email/proprietario/";
 	}
 }
