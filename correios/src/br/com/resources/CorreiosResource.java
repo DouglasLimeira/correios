@@ -38,7 +38,7 @@ public class CorreiosResource {
 		htmlMsg.append("a {text-decoration: none;}");
 		htmlMsg.append("a:visited {text-decoration: none;}");
 		htmlMsg.append("</style></head><body>");
-		htmlMsg.append("<div style=\"width: 806px; margin:auto;\">");
+		htmlMsg.append("<div style=\"width: 750px; margin:auto;\">");
 		htmlMsg.append("<a href=\"http://imobiliariapp.com.br/\"><img src=\""+ caminhoPastaComum + "logo.jpg\"></a> ");
 		htmlMsg.append("<a href=\"mailto:contato@imobiliariapp.com.br\"><img src=\""+ caminhoPastaComum + "topo-contato.jpg\"> </a> </br>");
 		
@@ -80,7 +80,7 @@ public class CorreiosResource {
 		htmlMsg.append("a {text-decoration: none;}");
 		htmlMsg.append("a:visited {text-decoration: none;}");
 		htmlMsg.append("</style></head><body>");
-		htmlMsg.append("<div style=\"width: 806px; margin:auto;\">");
+		htmlMsg.append("<div style=\"width: 750px; margin:auto;\">");
 		htmlMsg.append("<a href=\"http://imobiliariapp.com.br/\"><img src=\""+ caminhoPastaComum + "logo.jpg\"></a> ");
 		htmlMsg.append("<a href=\"mailto:contato@imobiliariapp.com.br\"><img src=\""+ caminhoPastaComum + "topo-contato.jpg\"> </a> </br>");
 		
@@ -122,7 +122,7 @@ public class CorreiosResource {
 		htmlMsg.append("a {text-decoration: none;}");
 		htmlMsg.append("a:visited {text-decoration: none;}");
 		htmlMsg.append("</style></head><body>");
-		htmlMsg.append("<div style=\"width: 806px; margin:auto;\">");
+		htmlMsg.append("<div style=\"width: 750px; margin:auto;\">");
 		htmlMsg.append("<a href=\"http://imobiliariapp.com.br/\"><img src=\""+ caminhoPastaComum + "logo.jpg\"></a> ");
 		htmlMsg.append("<a href=\"mailto:contato@imobiliariapp.com.br\"><img src=\""+ caminhoPastaComum + "topo-contato.jpg\"> </a> </br>");
 		
@@ -164,7 +164,7 @@ public class CorreiosResource {
 		htmlMsg.append("a {text-decoration: none;}");
 		htmlMsg.append("a:visited {text-decoration: none;}");
 		htmlMsg.append("</style></head><body>");
-		htmlMsg.append("<div style=\"width: 806px; margin:auto;\">");
+		htmlMsg.append("<div style=\"width: 750px; margin:auto;\">");
 		htmlMsg.append("<a href=\"http://imobiliariapp.com.br/\"><img src=\""+ caminhoPastaComum + "logo.jpg\"></a> ");
 		htmlMsg.append("<a href=\"mailto:contato@imobiliariapp.com.br\"><img src=\""+ caminhoPastaComum + "topo-contato.jpg\"> </a> </br>");
 		
@@ -206,7 +206,7 @@ public class CorreiosResource {
 		htmlMsg.append("a {text-decoration: none;}");
 		htmlMsg.append("a:visited {text-decoration: none;}");
 		htmlMsg.append("</style></head><body>");
-		htmlMsg.append("<div style=\"width: 806px; margin:auto;\">");
+		htmlMsg.append("<div style=\"width: 750px; margin:auto;\">");
 		htmlMsg.append("<a href=\"http://imobiliariapp.com.br/\"><img src=\""+ caminhoPastaComum + "logo.jpg\"></a> ");
 		htmlMsg.append("<a href=\"mailto:contato@imobiliariapp.com.br\"><img src=\""+ caminhoPastaComum + "topo-contato.jpg\"> </a> </br>");
 		
